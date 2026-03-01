@@ -1,3 +1,4 @@
+
 import java.util.*;
 // This program checks if a number is prime or not 
 public class Is_prime{
